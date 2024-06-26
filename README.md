@@ -9,29 +9,29 @@
 
 ### Instalación
 
-1. Clona este repositorio:
+1.  Clona este repositorio:
 
-   ```sh
-   git clone https://github.com/Rhaguer/evaluacion-cs.git
-   cd evaluacion-cs
-   ```
+    ```sh
+    git clone https://github.com/miguelalejandroff/evaluacion-cs.git
+    cd evaluacion-cs
+    ```
 
-2. Instala las bibliotecas necesarias:
+2.  Instala las bibliotecas necesarias:
 
    ```sh
    pip install -r requirements.txt
    ```
 
-3. Inicializa la base de datos:
+3.  Inicializa la base de datos:
 
    ```sh
    python initialize_db.py
    ```
 
 4. Ejecuta la aplicación:
-   ```sh
-   python main.py
-   ```
+    ```sh
+    python main.py
+    ```
 
 ### Uso
 
