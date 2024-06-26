@@ -12,7 +12,7 @@
 1.  Clona este repositorio:
 
     ```sh
-    git clone https://github.com/miguelalejandroff/evaluacion-cs.git
+    git clone https://github.com/Rhaguer/evaluacion-cs.git
     cd evaluacion-cs
     ```
 
