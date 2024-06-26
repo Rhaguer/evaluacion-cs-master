@@ -1,0 +1,39 @@
+# Ignorar archivos de bases de datos
+*.db
+
+# Ignorar configuraciones de entorno
+.env
+
+# Ignorar carpetas de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar directorios de virtualenv
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de compilación
+build/
+dist/
+*.egg-info/
+
+# Ignorar archivos de prueba
+.coverage
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
